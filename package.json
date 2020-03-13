@@ -1,0 +1,14 @@
+{
+  "name": "node_ecomm",
+  "version": "1.0.0",
+  "description": "ecomm demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
